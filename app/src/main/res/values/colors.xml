@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202124</color>
+    <color name="colorPrimaryDark">#202124</color>
+    <color name="colorAccent">#8AB4F8</color>
+    <color name="lightYellow">#fffFE0</color>
+    <color name="blue">#308DEC</color>
+    <color name="googleBlue">#8AB4F8</color>
+    <color name="googleGrey">#7F868B</color>
+    <color name="googleDisable">#BDBDBE</color>
+    <color name="googleSearch">#3C4043</color>
+    <color name="googleSearchText">#99A0A6</color>
+    <color name="googlePrimary">#3C4043</color>
+    <color name="gooleBlueButton">#8AB4F8</color>
+    <color name="googleNavDark">#202124</color>
+    <color name="googleBottom">#3B3E41</color>
+    <color name="marsRed">#E9967A</color>
+    <color name="marsHint">#757575</color>
+
+</resources>
